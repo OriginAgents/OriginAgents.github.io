@@ -4,4 +4,4 @@
 
 [To GitHub Pages, Here We Go~](https://originagents.github.io)
 
-<!-- ![GitHub Pages Cover](/assets/images/github-pages-cover.png) -->
+![GitHub Pages Cover](/assets/images/github-pages-cover.png)
